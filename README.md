@@ -3,6 +3,8 @@ python based tool for instagram giveaway. This script will select randomly one u
 
 This script is use [instaloader](https://github.com/instaloader/instaloader) library.
 
+### AUTHOR: PARTH PANCHAL (HITCH HICKER)
+
 ### REQUIREMENTS:
 - python3
 - instaloader library
@@ -17,3 +19,6 @@ python giveaway.py
 
 ### SCREENSHOT:
 ![DEMO](ss.jpeg)
+
+### DON'T COPY THIS CODE WITHOUT GIVE ME THE CREDITS!!
+
